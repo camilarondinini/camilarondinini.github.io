@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://camilarondinini.github.io
+title: É possível se tornar desenvolvedora de software sem uma educação formal?
+tagline: A log of everyday life
+description: Minha jornada pelo mundo da programação
+paginate: 5
